@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cseajay9
 - 👀 I’m interested in Web development using Python
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning Flask and Django
 - 💞️ I’m looking to collaborate on Web development with Python (Django / Flask)
 - 📫 How to reach me cseajay9@gmail.com 
 
